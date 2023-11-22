@@ -1,4 +1,4 @@
-[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)](https://Shivampathak124.github.io/)
+[![MasterHead](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xvgb2117ihigvoifb4fl9rlkby2w6su5wu1pc89f&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://Shivampathak124.github.io/)
 <h1 align="center">Hi 👋, I'm Shivam Pathak</h1>
 <h3 align="center">A passionate about Full Stack Web Development </h3>
 
