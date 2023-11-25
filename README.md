@@ -9,7 +9,7 @@
 - 📄 My Resume <a href="https://drive.google.com/file/d/1Det8Bs672qdVI22_UBxuNsbZgZQYyhrL/view?usp=sharing">Shivam Pathak</a>
 - 📄 My Linkedin <a href="https://www.linkedin.com/in/shivampathak1915124/">Linkedin Profile</a>
 
-<h3 align="left">Know More about me : <a href="#">https://Shivampathak124.github.io/</a></h3>
+<h3 align="left">My Portfolio <a href="https://Shivampathak124.github.io/"></a></h3>
 <h3 align="left">Connect with me : <a href="#">Shivampathak50065@gmail.com</a></h3>
 
 <p align="left">
