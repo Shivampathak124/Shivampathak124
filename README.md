@@ -4,6 +4,8 @@
 ## 🚀 About Me
 I'm a MERN Stack Developer with expertise in building dynamic web applications. Proficient in React, Node.js, and MongoDB, I create seamless user experiences through responsive UIs and robust server-side development. With a strong grasp of API design, I deliver high-quality, scalable solutions while staying updated with industry trends. My portfolio reflects my ability to tackle real-world challenges and build efficient MERN stack applications.
 
+🛠️ My arsenal includes React, Redux, JAVA, Node, Express, Mongoose, MongoDB, HTML, CSS, JavaScript, and Git. I thrive on creating efficient, elegant code and have a solid foundation in Data Structures and Algorithms, having conquered 650+ DSA problems.
+
 
 ## 🔗 Links
 
